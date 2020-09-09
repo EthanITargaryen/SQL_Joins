@@ -2,7 +2,7 @@
 -- DROP TABLE CITIES; 
 -- DROP TABLE PLANTS; 
 
-
+-- Oracle 11g 
 
 CREATE TABLE PLANTS(
 	ID CHAR(3), 
